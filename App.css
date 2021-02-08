@@ -1,0 +1,18 @@
+.selected {
+  font-weight: 600;
+}
+
+#myModal div.modal-wrapper {
+  background: transparent !important;
+}
+
+h2 {
+  width: 200px;
+  height: 200px;
+  background: blue;
+}
+
+ion-slides {
+  background: greenyellow;
+  height: 150px;
+}
