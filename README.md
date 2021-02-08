@@ -1,0 +1,2 @@
+# IonicSlide
+Created with CodeSandbox
